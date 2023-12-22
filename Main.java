@@ -1,5 +1,3 @@
-package TopshiriqJava;
-
 public class Main {
     public static void main(String[] args) {
         // Doira radiusi berilgan bo'lsa yuzini hisoblaymiz
