@@ -1,5 +1,3 @@
-package TopshiriqJava;
-
 public class MathFunctions {
     public static double π = 3.14;
     public static double e = 2.71;
